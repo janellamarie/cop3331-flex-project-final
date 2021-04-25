@@ -265,7 +265,7 @@ void modify_weapon(int index_to_modify) {
 
 // allows the user to modify the quantity of a Item object
 void modify_item(int index_to_modify) {
-    Item i = inventory.get_items().at(index_to_modify);
+    Item i = inventory.get_items().at(index_to_modify-1);
     int new_quantity = get_valid_menu_input("\nEnter new quantity (0 to cancel): ", 999);
     if(new_quantity != 0) {
         Item item = Item(i.get_name(), new_quantity);
