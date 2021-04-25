@@ -505,7 +505,7 @@ void add_weapon_levelling_goal() {
 
         index = find_weapon(name, inventory);
         if(index != -1){
-            Weapon temp_weapon = inventory.get_weapons().at(index);
+            Weapon temp_weapon = inventory.get_weapons().at(index-1);
             cout << temp_weapon;
 
             if(temp_weapon.get_level().get_current_lvl() < 90) {
