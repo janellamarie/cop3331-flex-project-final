@@ -19,7 +19,6 @@ class Item {
         string get_name() const;
         int get_rarity() const;
         int get_quantity() const;
-        int get_type() const;
 
         // setters
         void set_name(string name);

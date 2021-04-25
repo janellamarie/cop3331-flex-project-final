@@ -194,6 +194,17 @@ int find_character_db(const string& to_find) {
     return -1;
 }
 
+vector<Item> get_all_items_db() {
+    vector<Item> items;
+    for(Domain d : all_domains) {
+        for(Challenge c : d.get_challenges()) {
+            for(Item i : c.get_drops())
+                items.push_back(i);
+        }
+    }
+    return items;
+}
+
 // get all Talent Level Up Materials
 vector<Item> get_all_talentmat_db() {
     vector<Item> talent_mat;
@@ -242,14 +253,14 @@ int find_item_db(const string& to_find, int type) {
 
 // allows the user to modify the Level of a Item object
 void modify_weapon(int index_to_modify) {
-    Weapon temp_w = inventory.get_weapons().at(index_to_modify);
+    Weapon temp_w = inventory.get_weapons().at(index_to_modify-1);
     int new_level = get_valid_menu_input("\nEnter new level (0 to cancel): ", 90);
     if(new_level != 0) {
         Level level = Level(new_level);
         temp_w.set_level(level);
         inventory.replace_weapon(index_to_modify-1, temp_w);
+        cout << "Updated: " << endl << temp_w << endl;
     }
-
 }
 
 // allows the user to modify the quantity of a Item object
@@ -744,7 +755,7 @@ int main() {
 
     cout << "Ad Astra Abyssosque, Traveller!";
     // load all Invetory related files
-    inventory = FileIO::load_inventory(all_characters, all_weapons, all_artifacts);
+    inventory = FileIO::load_inventory(all_characters, all_weapons, all_artifacts, get_all_items_db());
     goals = FileIO::load_goals();
 
     do {

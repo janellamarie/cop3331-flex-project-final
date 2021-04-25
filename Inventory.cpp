@@ -118,6 +118,17 @@ int find_weapon(string to_find, Inventory& inventory) {
     return -1;
 }
 
+// find an Item object with the name to_find in the Inventory, returns the index if it is found, otherwise returns -1
+int find_item(string to_find, Inventory &inventory) {
+    int found = 0;
+    for (Item i : inventory.items) {
+        if (to_find == i.get_name())
+            return found;
+        ++found;
+    }
+    return -1;
+}
+
 void Inventory::add_character(const Character& character) {
     characters.push_back(character);
 }
@@ -140,17 +151,6 @@ void Inventory::replace_character(int index, Character new_character) {
 
 void Inventory::replace_item(int index, Item new_item) {
     items[index] = new_item;
-}
-
-// find an Item object with the name to_find in the Inventory, returns the index if it is found, otherwise returns -1
-int find_item(string to_find, Inventory &inventory) {
-    int found = 0;
-    for (Item i : inventory.items) {
-        if (to_find == i.get_name())
-            return found;
-        ++found;
-    }
-    return -1;
 }
 
 void Inventory::remove_character(int index) {

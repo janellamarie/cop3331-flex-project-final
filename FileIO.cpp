@@ -225,7 +225,7 @@ vector<Character> FileIO::initialize_characters() {
 }
 
 // loads all the corresponding Inventory related text files (.txt files with prefix inv_)
-Inventory FileIO::load_inventory(const vector<Character>& all_characters, const vector<Weapon>& all_weapons, vector<Artifact> all_artifacts) {
+Inventory FileIO::load_inventory(const vector<Character>& all_characters, const vector<Weapon>& all_weapons, vector<Artifact> all_artifacts, vector<Item> all_items) {
     Inventory temp_inv;
 
     // load the inv_characters.txt file
@@ -236,6 +236,8 @@ Inventory FileIO::load_inventory(const vector<Character>& all_characters, const 
 
     // load the inv_artifacts.txt file
     temp_inv.set_artifacts(load_artifacts(all_artifacts));
+
+    temp_inv.set_items(load_item(all_items));
 
     return temp_inv;
 }
@@ -437,7 +439,7 @@ vector<Goal> FileIO::load_goals() {
             type = line;
         }
     } else {
-        cout << "Could not open " << goal_file << endl;
+        cout << "\nCould not open " << goal_file << endl;
     }
 	
     file.close();
@@ -485,4 +487,35 @@ void FileIO::save_goal_file(vector<Goal> goals) {
     }
 
     file.close();
+}
+
+vector<Item> FileIO::load_item(const vector<Item> &all_items) {
+    vector<Item> items;
+    fstream file;
+    file.open("inv_items.txt");
+
+    vector<Character> inv_characters;
+    Character temp_character;
+
+    string line;
+
+    while (getline(file, line)) {
+        istringstream ss(line);
+        string temp_string;
+
+        Item temp_item;
+        int count = 1;
+        while(getline(ss, temp_string, ',')) {
+            if(count == 1) {
+                temp_item.set_name(temp_string);
+                ++count;
+            } else {
+                temp_item.set_quantity(stoi(temp_string));
+            }
+        }
+
+        items.push_back(temp_item);
+    }
+
+    return items;
 }
