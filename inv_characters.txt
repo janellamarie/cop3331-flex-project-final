@@ -1,0 +1,4 @@
+Kaeya,80,The Black Sword,80,Blizzard Strayer,Blizzard Strayer,Crimson Witch of Flames,Blizzard Strayer,Blizzard Strayer
+Xiao,90,Prototype Starglitter,80,Viridescent Venerer,Gladiator's Finale,Gladiator's Finale,Noblesse Oblige,Viridescent Venerer
+Bennett,70,Festering Desire,80,Noblesse Oblige,Gladiator's Finale,Noblesse Oblige,Noblesse Oblige,Noblesse Oblige
+Diluc,90,Prototype Archaic,90,,,,,

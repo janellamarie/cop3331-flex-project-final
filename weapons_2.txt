@@ -1,0 +1,22 @@
+Bow
+Hunter's Bow,1,Atk,23,NONE,0
+Seasoned Hunter's Bow,2,Atk,33,NONE,0
+Messenger,3,Atk,40,Crit Dmg%,6.8
+Raven Bow,3,Atk,40,Elemental Mastery,20
+Recurve Bow,3,Atk,38,HP%,10.2
+Sharpshooter's Oath,3,Atk,39,Crit Dmg%,10.2
+Slingshot,3,Atk,38,Crit Rate%,6.8
+The Stringless,4,Atk,42,Elemental Mastery,36
+Alley Hunter,4,Atk,44,Atk%,6
+Blackcliff Warbow,4,Atk,41,Crit Dmg%,8
+Compound Bow,4,Atk,41,Phys Dmg%,15
+Favonius Warbow,4,Atk,41,Energy Recharge%,13.3
+Prototype Crescent,4,Atk,42,Atk%,9
+Royal Bow,4,Atk,42,Atk%,9
+Rust,4,Atk,42,Atk%,9
+Sacrificial Bow,4,Atk,44,Energy Recharge%,6.7
+The Viridescent Hunt,4,Atk,42,Crit Rate%,6
+Windblume Ode,4,Atk,42,Elemental Mastery,36
+Skyward Harp,5,Atk,48,Crit Rate%,4.8
+Amos' Bow,5,Atk,46,Atk%,10.8
+Elegy for the End,5,Atk,46,Energy Recharge%,12

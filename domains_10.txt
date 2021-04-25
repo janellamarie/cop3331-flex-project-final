@@ -1,0 +1,10 @@
+Taishan Mansion
+Domain of Mastery: Altar of Flames
+Teachings of Prosperity,Guide to Prosperity,Philosophies of Prosperity
+Mon,Thu,Sun
+Domain of Mastery: Heart of the Flames
+Teachings of Diligence,Guide to Diligence,Philosophies of Diligence
+Tue,Fri,Sun
+Domain of Mastery: Circle of Embers
+Teachings of Gold,Guide to Gold,Philosophies of Gold
+Wed,Sat,Sun

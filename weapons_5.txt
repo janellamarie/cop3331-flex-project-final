@@ -1,0 +1,22 @@
+Catalyst
+Apprentice's Notes,1,Atk,23,NONE,0
+Pocket Grimoire,2,Atk,33,NONE,0
+Emerald Orb,3,Atk,40,Elemental Mastery,20
+Magic Guide,3,Atk,38,Elemental Mastery,41
+Otherworldly Story,3,Atk,39,Energy Recharge%,8.5
+Thrilling Tales of Dragon Slayers,3,Atk,39,HP%,7.7
+Twin Nephrite,3,Atk,40,Crit Rate%,3.4
+Blackcliff Agate,4,Atk,42,Crit Dmg%,12
+Favonius Codex,4,Atk,42,Energy Recharge%,10
+Mappa Mare,4,Atk,44,Elemental Mastery,24
+Prototype Amber,4,Atk,42,HP%,9
+Royal Grimoire,4,Atk,44,Atk%,6
+Sacrificial Fragments,4,Atk,41,Elemental Mastery,48
+Solar Pearl,4,Atk,42,Crit Rate%,6
+The Widsith,4,Atk,42,Crit Dmg%,12
+Wine and Song,4,Atk,44,Energy Recharge%,6.7
+Eye of Perception,4,Atk,41,Atk%,12
+Frostbearer,4,Atk,42,Atk%,9
+Lost Prayer to the Sacred Winds,5,Atk,46,Crit Rate%,7.2
+Skyward Atlas,5,Atk,48,Atk%,7.2
+Memory of Dust,5,Atk,46,Atk%,10.8

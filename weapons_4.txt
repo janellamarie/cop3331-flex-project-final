@@ -1,0 +1,22 @@
+Claymore
+Waster Greatsword,1,Atk,23,NONE,0
+Old Merc's Pal,2,Atk,33,NONE,0
+Bloodtainted Greatsword,3,Atk,38,Elemental Mastery,41
+Debate Club,3,Atk,39,Atk%,7.7
+Ferrous Shadow,3,Atk,39,HP%,7.7
+Skyrider Greatsword,3,Atk,39,Phys Dmg%,9.6
+White Iron Greatsword,3,Atk,39,Def%,9.6
+Blackcliff Slasher,4,Atk,42,Crit Dmg%,13.3
+Favonius Greatsword,4,Atk,41,Energy Recharge%,13.3
+Lithic Blade,4,Atk,42,Atk%,9
+Prototype Archaic,4,Atk,44,Atk%,6
+Rainslasher,4,Atk,42,Elemental Mastery,36
+Royal Greatsword,4,Atk,44,Atk%,6
+Serpent Spine,4,Atk,42,Crit Rate%,6
+The Bell,4,Atk,42,HP%,9
+Whiteblind,4,Atk,42,Def%,11.3
+Sacrificial Greatsword,4,Atk,44,Energy Recharge%,6.7
+Snow-Tombed Starsilver,4,Atk,44,Phs Dmg%,7.5
+Skyward Pride,5,Atk,48,Energy Recharge%,8
+Wolf's Gravestone,5,Atk,46,Atk%,10.8
+The Unforged,5,Atk,46,Atk%,10.8

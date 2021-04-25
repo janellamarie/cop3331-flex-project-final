@@ -1,0 +1,7 @@
+The Black Sword,80
+Festering Desire,80
+Skyward Spine,90
+Skyward Blade,50
+Prototype Archaic,90
+Rust,80
+Prototype Starglitter,80

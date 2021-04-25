@@ -1,0 +1,10 @@
+Forsaken Rift
+Domain of Mastery: Frosted Altar
+Teachings of Freedom,Guide to Freedom,Philosophies of Freedom
+Mon,Thu,Sun
+Domain of Mastery: Frozen Abyss
+Teachings of Resistance,Guide to Resistance,Philosophies of Resistance
+Tue,Fri,Sun
+Domain of Mastery: Realm of Slumber
+Teachings of Ballad,Guide to Ballad,Philosophies of Ballad
+Wed,Sat,Sun

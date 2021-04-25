@@ -1,0 +1,10 @@
+Cecilia Garden
+Domain of Forgery: City of Reflections
+Tile of Decarabian's Tower,Debris of Decarabian's City,Fragment of Decarabian's Epic,Scattered Piece of Decarabian's Dream
+Mon,Thu,Sun
+Domain of Forgery: Submerged Valley
+Boreal Wolf's Milk Tooth,Boreal Wolf's Cracked Tooth,Boreal Wolf's Broken Fang,Boreal Wolf's Nostalgia
+Tue,Fri,Sun
+Domain of Forgery: Ruins of Thirsting Capital
+Fetters of the Dandelion Gladiator,Chains of the Dandelion Gladiator,Shackles of the Dandelion Gladiator,Dream of the Dandelion Gladiator
+Wed,Sat,Sun

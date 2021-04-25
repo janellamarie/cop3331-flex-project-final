@@ -1,0 +1,3 @@
+Blizzard Strayer,Atk,331,Elemental Mastery,21,Def%,13.1,Crit Rate%,6.6,Crit Dmg%,19.4
+Blizzard Strayer,HP,4780,Atk%,22.7,Elemental Mastery,19,Crit Dmg%,13.2,Crit Rate%,7.0
+Heart of Depth,HP,4780,HP%,10.5,Atk,33,Crit Dmg%,7.0,Atk%,16.9

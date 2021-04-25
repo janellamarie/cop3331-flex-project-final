@@ -1,0 +1,19 @@
+Polearm
+Beginner's Protector,1,Atk,23,NONE,0
+Iron Point,2,Atk,33,NONE,0
+Black Tassel,3,Atk,38,HP%,10.2
+Halberd,3,Atk,40,Atk%,5.1
+White Tassel,3,Atk,39,Crit Rate%,5.1
+Blackcliff Pole,4,Atk,42,Crit Dmg%,12
+Crescent Pike,4,Atk,44,Phys Dmg%,7.5
+Deathmatch,4,Atk,41,Crit Rate%,8
+Dragon's Bane,4,Atk,41,Elemental Mastery,48
+Lithic Spear,4,Atk,44,Atk%,6
+Prototype Starglitter,4,Atk,42,Energy Recharge%,8
+Favonius Lance,4,Atk,44,Energy Recharge%,6.7
+Royal Spear,4,Atk,41,Atk%,6
+Dragonspine Spear,4,Atk,46,Phys Dmg%,15
+Vortex Vanquisher,5,Atk,48,Atk%,10.8
+Primordial Jade Winged-Spear,5,Atk,48,Crit Rate%,4.8
+Skyward Spine,5,Atk,48,Energy Recharge%,8
+Staff of Homa,5,Atk,46,Crit Dmg%,14.4

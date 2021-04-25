@@ -1,0 +1,25 @@
+Sword
+Dull Blade,1,Atk,23,NONE,0
+Silver Sword,1,Atk,33,NONE,0
+Cool Steel,3,Atk,39,Atk%,7.7
+Dark Iron Sword,3,Atk,39,NONE,0
+Fillet Blade,3,Atk,39,Elemental Mastery,31
+Harbinger of Dawn,3,Atk,39,Crit Dmg%,10.2
+Skyrider Sword,3,Atk,38,Energy Recharge%,11.3
+Traveler's Handy Sword,3,Atk,40,DEf%,6.4
+Blackcliff Longsword,4,Atk,44,Crit Dmg%,8
+Favonius Sword,4,Atk,41,Energy Recharge%,13.3
+Iron Sting,4,Atk,42,Elemental Mastery,37
+Lion's Roar,4,Atk,42,Atk%,9
+Prototype Rancour,4,Atk,44,Phys Dmg%,7.5
+Royal Longsword,4,Atk,42,Atk%,9
+Sacrificial Sword,4,Atk,41,Energy Recharge%,13.3
+The Alley Flash,4,Atk,45,Elemental Mastery,12
+The Black Sword,4,Atk,42,Crit Rate%,6
+The Flute,4,Atk,42,Atk%,9
+Sword of Descension,4,Atk,39,Atk%,7.7
+Festering Desire,4,Atk,42,Energy Recharge%,10
+Aquila Favonia,5,Atk,48,Phys Dmg%,9
+Skyward Blade,5,Atk,46,Energy Recharge%,12
+Summit Shaper,5,Atk,46,Atk%,10,8
+Primordial Jade Cutter,5,Atk,44,Crit Rate%,9.6
