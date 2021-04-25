@@ -2,6 +2,5 @@ CHARACTER
 Get Bennett to Lvl 90
 WEAPON
 Get Rust to Lvl 90
-Get Skyward Blade to Lvl 90
 ITEM
 Farm Philosophies of Freedom 90

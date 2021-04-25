@@ -368,7 +368,7 @@ void mark_goal_as_complete() {
 
                         // replace the Character object in Inventory at the given index
                         inventory.replace_character(char_index, temp_c);
-                        cout << "Updated: " << endl << inventory.get_weapons().at(char_index);
+                        cout << "Updated: " << endl << inventory.get_characters().at(char_index);
                     } else
                         cout << "Character not found!" << endl;
                 } else if (goals.at(temp_index).get_type() == "WEAPON") {
